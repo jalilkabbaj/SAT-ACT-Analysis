@@ -5,7 +5,7 @@
 
 ## Problem Statement
 
-As an analyst for the princeton review, I was asked to conduct research on whether high schools maintained a necessary academic level for their students to succesfully take the ACT/SAT and how can we improve their skills through better developped test preps. More specifically the question asked is, does the level of academics taught in Californian high schools englobe the necessary level to succesfully study and complete the SAT/ACT and how does it compare to the rest of the nation ?
+As an analyst for the princeton review, I was asked to conduct research on whether high schools maintained a necessary academic level for their students to succesfully take the ACT/SAT and how can we improve their skills through better developped test preps. More specifically the question asked is, does the level of academics taught in Californian high schools englobe the necessary level to succesfully study and complete the SAT/ACT.
 
 *NOTE*: This is a thought experiment, I have no affiliation with the princeton review. This was a theoretical situation to make this project as fun and realistic as possible. 
 
